@@ -14,9 +14,9 @@
 # limitations under the License.
 #
 name "chef"
-default_version "12.4.1.cisco"
+default_version "wrlinux7"
 
-source git: "git://github.com/mattray/chef"
+source git: "git://github.com/adamleff/chef"
 
 relative_path "chef"
 
